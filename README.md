@@ -12,7 +12,7 @@ Content Tracker is a Java application designed to help users manage their favori
 ### Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://example.com/jamiemerrills/content-tracker.git
+   git clone https://github.com/jimerrills/showTracker.git
 2. Compile JAR
    ```bash
    mvn clean install
