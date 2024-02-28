@@ -18,5 +18,5 @@ Content Tracker is a Java application designed to help users manage their favori
    mvn clean install
 3. Navigate to jar location & run
    ```bash
-   java -jar showTracker-1.0-SNAPSHOT.jar"
+   java -jar showTracker-1.0-SNAPSHOT.jar
 
