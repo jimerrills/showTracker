@@ -8,3 +8,15 @@ Content Tracker is a Java application designed to help users manage their favori
 - **Manage Content:** Allows for the management of existing entries, enabling users to update details like timestamps, season, and episode numbers.
 - **Remove Content:** Users can remove shows or films from their tracking list.
 - **Persistent Storage:** The application utilizes file serialization to save shows and films, ensuring data persists between sessions.
+
+### Installation
+1. Clone the repository to your local machine:
+   ```bash
+   git clone https://example.com/jamiemerrills/content-tracker.git
+2. Compile JAR
+   ```bash
+   mvn clean install
+3. Navigate to jar location & run
+   ```bash
+   java -jar showTracker-1.0-SNAPSHOT.jar"
+
