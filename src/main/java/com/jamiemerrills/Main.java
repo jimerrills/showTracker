@@ -40,8 +40,6 @@ public class Main {
 
 
         mainMenu(showList, filmList);
-        FilmManager.listAllFilms(filmList);
-        ShowManager.listAllShows(showList);
 
     }
 
